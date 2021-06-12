@@ -30,7 +30,7 @@ A aplicação foi criada com finalidade de por em prática a utilização de aut
 
 ### **📝 Licença**
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/mvgoliveira/Simple_authentication_web/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/mvgoliveira/Simple_authentication_api/blob/main/LICENSE) para mais detalhes.
 
 
 <hr>
