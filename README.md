@@ -14,7 +14,7 @@ A aplicação foi criada com finalidade de por em prática a utilização de aut
 
 ```bash
   #  clone o repositório
-  git clone https://github.com/mvgoliveira/Simple_Authentication_Web
+  git clone https://github.com/mvgoliveira/Simple_Authentication_api
 
   #  navegue até o repositório clonado
   cd Simple_Authentication_Web
